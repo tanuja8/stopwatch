@@ -55,7 +55,7 @@ function stopwatch(){
     }
         }
 }
-setTimeout("stopwatch()",1);
+setTimeout("stopwatch()",10);
 }
 }
 
